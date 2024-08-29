@@ -8,7 +8,7 @@ A brief description of what this project does and who it's for
 
 ![App Screenshot](https://i.imgur.com/PaQWIqa.png)
 ![App Screenshot](https://i.imgur.com/2GueAFF.png)
-![App Screenshot](https://imgur.com/rnlesps)
+![App Screenshot](https://i.imgur.com/B82ehih.gif)
 
 
 ## Features

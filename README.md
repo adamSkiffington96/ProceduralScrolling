@@ -19,17 +19,6 @@ A brief description of what this project does and who it's for
 - Cross platform
 
 
-## Snippets
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility

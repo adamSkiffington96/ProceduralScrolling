@@ -1,7 +1,7 @@
 
-# Project Title
+# Procedural UI Scroll
 
-A brief description of what this project does and who it's for
+Create UI panels, buttons, and backgrounds, etc. which have a specified scrolling image
 
 
 ## Screenshots
@@ -13,18 +13,10 @@ A brief description of what this project does and who it's for
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Different shader variants allow for customization of results
+- Many different shader variables for panel color, number of sides, edge radius, etc.
+- Control the overlay scroll speed, color, scale, sharpness
+- A scrolling texture allows for inifinite customization of the shader without editing the code
 
 
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
-
-## Demo
-
-Insert gif or link to demo
 

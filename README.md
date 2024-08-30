@@ -6,6 +6,8 @@ Create UI panels, buttons, and backgrounds, etc. which have a specified scrollin
 
 ## Screenshots
 
+Example map selection panel:
+
 ![App Screenshot](https://i.imgur.com/jAzYwzw.png)
 ![App Screenshot](https://i.imgur.com/PaQWIqa.png)
 ![App Screenshot](https://i.imgur.com/2GueAFF.png)
